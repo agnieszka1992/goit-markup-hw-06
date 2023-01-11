@@ -762,6 +762,7 @@ h2 {
 .checkbox {
   padding-top: 20px;
   padding-bottom: 30px;
+  
 }
 
 .checkbox-label {
@@ -787,6 +788,7 @@ h2 {
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   fill: var(--brand-color-one);
+  cursor: pointer;
 }
 
 .modal-terms {
